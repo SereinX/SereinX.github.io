@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      格罗比言首个版本发布
-subtitle:   v0.6版
-date:       2019-01-16
-author:     Henri Jambo
+title:      关于我
+subtitle:   About Me
+date:       2020-12-04
+author:     SereinX
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
