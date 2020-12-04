@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      关于我
+title:      博客没造完,无语
 subtitle:   About Me
 date:       2020-12-04
 author:     SereinX
