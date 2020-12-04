@@ -5,7 +5,7 @@ subtitle:   设计目标：半天入门，一月掌握，两年精通
 date:       2019-10-18
 author:     Henri Jambo
 header-img: img/post-bg-alibaba.jpg
-catalog: true
+catalog: false
 tags:
     - 设计点滴
 ---
