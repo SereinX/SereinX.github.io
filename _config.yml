@@ -1,7 +1,7 @@
 # Site settings
 title: SereinX的博客
 SEOTitle: SereinX的博客
-header-img: 
+header-img: /img/paper.jpg
 email: 2085713040@qq.com
 description: "SereinX's blog"
 keyword: "oier,CSP,NOIP,ACM"
@@ -108,7 +108,7 @@ friends: [
         title: "SDFZ国集爷eqvpkbz",
         href: "https://www.cnblogs.com/eqvpkbz/"
     },{
-        title: "知乎：Henri_Jambo",
-        href: "https://www.zhihu.com/people/henry-jiang-78" 
+        title: "未来母校官网(懂得都懂)",
+        href: "http://www.whu.edu.cn/" 
     }
 ]
