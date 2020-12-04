@@ -5,7 +5,7 @@ subtitle:   英汉互补，不学就会；一字一音，看到能读，听到�
 date:       2019-09-22
 author:     Henri Jambo
 header-img: img/post-bg-miui6.jpg
-catalog: 	  true
+catalog: 	  false
 tags:
     - 学习资料
 ---
