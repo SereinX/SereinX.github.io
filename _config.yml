@@ -18,12 +18,12 @@ sidebar-avatar: /header.jpg     # use absolute URL, seeing it's used in both `/`
 
 # SNS settings
 RSS: true
-# weibo_username:     qiubaiying
-# zhihu_username:     qiubaiying
+weibo_username:     qiubaiying
+zhihu_username:     qiubaiying
 github_username:      SereinX
-# facebook_username:  baiying.qiu.7
-# jianshu_username:   e71990ada2fd
-# twitter_username:   qiubaiying
+facebook_username:  baiying.qiu.7
+jianshu_username:   e71990ada2fd
+twitter_username:   qiubaiying
 
 
 
@@ -102,11 +102,11 @@ friends: [
         title: "LS最强的省队队长hytree",
         href: "https://cnblogs.com/hytree"
     },{
-        title: "神仙托老师",
+        title: "CJ神仙托老师",
         href: "https://tony102.xyz/"
     },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
+        title: "SDFZ国集爷eqvpkbz",
+        href: "https://www.cnblogs.com/eqvpkbz/"
     },{
         title: "知乎：Henri_Jambo",
         href: "https://www.zhihu.com/people/henry-jiang-78" 
