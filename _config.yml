@@ -1,7 +1,7 @@
 # Site settings
 title: SereinX的博客
 SEOTitle: SereinX的博客
-header-img: /img/paper.jpg
+header-img: img/paper.jpg
 email: 2085713040@qq.com
 description: "SereinX's blog"
 keyword: "oier,CSP,NOIP,ACM"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/globien/globien.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "大菜逼"
-sidebar-avatar: /img/paper.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: header.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
