@@ -1,7 +1,7 @@
 # Site settings
 title: SereinX的博客
-SEOTitle: blog.SereinX
-header-img: img/20200216122833_dpfsi.jpg
+SEOTitle: blog_SereinX
+header-img: /img/20200216122833_dpfsi.jpg
 email: 2085713040@qq.com
 description: "SereinX's blog"
 keyword: "Constructed Language, Ligua Franca, Interlingua, Globien"
